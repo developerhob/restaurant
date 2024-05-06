@@ -26,5 +26,6 @@
 |2. |Zombie Brain Salad: Quinoa,Awokado, Pomidory koktajlowe, Ogórek, Zielony sos ziołowy  |  13zł   |
 |3. |Wiedźmińskie ziemniaki w kotle: Ziemniaki, Ostry sos czarnej fasoli                   |  14zł   |
 |4. |Dyniowe oczka Halloween: Kawałki upieczonej dyni, Ser feta, Suszone żurawiny          |  14zł   |
+|5. |
                                         
  
