@@ -20,9 +20,9 @@
 |---|--------------------------------------------------------------------------------------|---------|-------|-------|
 |6. |Napój "Jaszczurczy Elixir" (Zielona lemoniada z dodatkiem syropu z kiwi)              |         | 10zł  |  15zł | 
 
-|Lp.|Dania vege:                                                                           |rozmiar: |30cm   |40cm   |50cm   |
-|---|--------------------------------------------------------------------------------------|---------|-------|-------|-------|
-|1. |Paluchy wampira z hummusem krwi:Grzanki z pieczywa żytniego, Czerwona pasta hummusu   |         |       |       |       |
-|2. |Zombie Brain Salad: Quinoa,Awokado, Pomidory koktajlowe, Ogórek, Zielony sos ziołowy  |         |       |       |       |
+|Lp.|Dania vege:                                                                           |cena:    |
+|---|--------------------------------------------------------------------------------------|---------|
+|1. |Paluchy wampira z hummusem krwi:Grzanki z pieczywa żytniego, Czerwona pasta hummusu   |         |
+|2. |Zombie Brain Salad: Quinoa,Awokado, Pomidory koktajlowe, Ogórek, Zielony sos ziołowy  |         | 
                                         
  
