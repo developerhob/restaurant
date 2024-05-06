@@ -18,4 +18,9 @@
 
 |Lp.|Napoje:                                                                               |rozmiar: |Mały   |Duży   |
 |---|--------------------------------------------------------------------------------------|---------|-------|-------|
-|6. |Napój "Jaszczurczy Elixir" (Zielona lemoniada z dodatkiem syropu z kiwi)              |         | 10zł  |  15zł |       
+|6. |Napój "Jaszczurczy Elixir" (Zielona lemoniada z dodatkiem syropu z kiwi)              |         | 10zł  |  15zł | 
+
+ |Lp.|Dania:                                                                                |rozmiar: |30cm   |40cm   |50cm  |
+|---|--------------------------------------------------------------------------------------|---------|-------|-------|-------|
+                                        
+ 
