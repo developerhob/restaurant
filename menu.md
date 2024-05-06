@@ -17,5 +17,6 @@
 <img src = "img/wine-7046276_1920.jpg" width = 300>
 
 |Lp.|Napoje:                                                                               |rozmiar: |Mały   |Duży  |
-|---|--------------------------------------------------------------------------------------|---------|-------|-------|
-|6. |Napój "Jaszczurczy Elixir" (Zielona lemoniada z dodatkiem syropu z kiwi)              |         | 10zł  |  15zł |       
+|---|--------------------------------------------------------------------------------------|---------|-------|------|
+|6. |Napój "Jaszczurczy Elixir" (Zielona lemoniada z dodatkiem syropu z kiwi)              |         | 10zł  | 15zł |  
+|7. |Zielona Mikstura Potwora: Smoothie z zielonych warzyw                                   |         | 11zł  | 16zł | 
