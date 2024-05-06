@@ -18,7 +18,9 @@
 
 |Lp.|Napoje:                                                                               |rozmiar: |Mały   |Duży   |
 |---|--------------------------------------------------------------------------------------|---------|-------|-------|
-|6. |Napój "Jaszczurczy Elixir" (Zielona lemoniada z dodatkiem syropu z kiwi)              |         | 10zł  |  15zł | 
+|1. |Napój "Jaszczurczy Elixir" (Zielona lemoniada z dodatkiem syropu z kiwi)              |         | 10zł  |  15zł | 
+|2. |Dyniowy Zaczarowany Napój: Gorący napój na bazie mleka migdałowego.                   |         | 12zł  |  17zł |
+
 
 |Lp.|Dania vege:                                                                           |cena:    |
 |---|--------------------------------------------------------------------------------------|---------|
