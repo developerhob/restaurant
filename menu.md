@@ -20,7 +20,8 @@
 |---|--------------------------------------------------------------------------------------|---------|-------|-------|
 |6. |Napój "Jaszczurczy Elixir" (Zielona lemoniada z dodatkiem syropu z kiwi)              |         | 10zł  |  15zł | 
 
-|Lp.|Dania vege:                                                                           |rozmiar: |30cm   |40cm   |50cm  |
+|Lp.|Dania vege:                                                                           |rozmiar: |30cm   |40cm   |50cm   |
 |---|--------------------------------------------------------------------------------------|---------|-------|-------|-------|
+|1. |Paluchy wampira z hummusem krwi:Grzanki z pieczywa żytniego, Czerwona pasta hummusu   |         |       |       |       |
                                         
  
