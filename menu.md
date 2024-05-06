@@ -22,7 +22,9 @@
 
 |Lp.|Dania vege:                                                                           |cena:    |
 |---|--------------------------------------------------------------------------------------|---------|
-|1. |Paluchy wampira z hummusem krwi:Grzanki z pieczywa żytniego, Czerwona pasta hummusu   |         |
-|2. |Zombie Brain Salad: Quinoa,Awokado, Pomidory koktajlowe, Ogórek, Zielony sos ziołowy  |         | 
+|1. |Paluchy wampira z hummusem krwi:Grzanki z pieczywa żytniego, Czerwona pasta hummusu   |  13zł   |
+|2. |Zombie Brain Salad: Quinoa,Awokado, Pomidory koktajlowe, Ogórek, Zielony sos ziołowy  |  13zł   |
+|3. |Wiedźmińskie ziemniaki w kotle: Ziemniaki, Ostry sos czarnej fasoli                   |  14zł   |
+|4. |
                                         
  
