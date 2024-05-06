@@ -16,13 +16,9 @@
 
 <img src = "img/wine-7046276_1920.jpg" width = 300>
 
-|Lp.|Napoje:                                                                               |rozmiar: |Mały   |Duży   |
-|---|--------------------------------------------------------------------------------------|---------|-------|-------|
-|1. |Napój "Jaszczurczy Elixir" (Zielona lemoniada z dodatkiem syropu z kiwi)              |         | 10zł  |  15zł | 
-|2. |Dyniowy Zaczarowany Napój: Gorący napój na bazie mleka migdałowego.                   |         | 12zł  |  17zł |
 
 
-|Lp.|Dania vege:                                                                           |cena:    |
+Lp.|Dania vege:                                                                           |cena:    |
 |---|--------------------------------------------------------------------------------------|---------|
 |1. |Paluchy wampira z hummusem krwi:Grzanki z pieczywa żytniego, Czerwona pasta hummusu   |  13zł   |
 |2. |Zombie Brain Salad: Quinoa,Awokado, Pomidory koktajlowe, Ogórek, Zielony sos ziołowy  |  13zł   |
