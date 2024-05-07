@@ -12,18 +12,24 @@
 |4. |Przekąska "Czarne Skrzydła" (Krążki cebuli w panierce)                                |         | 19zł  | 21zł  | 23zł  |
 |5. |Deser "Krwawe Ciastko" (Czekoladowe ciastko podawane z czerwonym musem malinowym)     |         | 20zł  | 22zł  | 24zł  |
 
-# napoje
-
-<img src = "img/wine-7046276_1920.jpg" width = 300>
-
-
-
-Lp.|Dania vege:                                                                           |cena:    |
+Lp.|Dania vege:                                                                            |cena:    |
 |---|--------------------------------------------------------------------------------------|---------|
 |1. |Paluchy wampira z hummusem krwi:Grzanki z pieczywa żytniego, Czerwona pasta hummusu   |  13zł   |
 |2. |Zombie Brain Salad: Quinoa,Awokado, Pomidory koktajlowe, Ogórek, Zielony sos ziołowy  |  13zł   |
 |3. |Wiedźmińskie ziemniaki w kotle: Ziemniaki, Ostry sos czarnej fasoli                   |  14zł   |
 |4. |Dyniowe oczka Halloween: Kawałki upieczonej dyni, Ser feta, Suszone żurawiny          |  14zł   |
 |5. |Wróżka w lesie: Makaron pełnoziarnisty,Pieczarki,Szpinak, Czosnek                     |  14zł   |
+
+# napoje
+
+<img src = "img/wine-7046276_1920.jpg" width = 300>
+
+Lp.|Napoje:                                                                                | Mały | Duży |
+|---|--------------------------------------------------------------------------------------|------|------|
+|1. |Paluchy wampira z hummusem krwi:Grzanki z pieczywa żytniego, Czerwona pasta hummusu   | 13zł | 15zł |
+|2. |Zombie Brain Salad: Quinoa,Awokado, Pomidory koktajlowe, Ogórek, Zielony sos ziołowy  | 13zł | 15zł |
+|3. |Wiedźmińskie ziemniaki w kotle: Ziemniaki, Ostry sos czarnej fasoli                   | 14zł | 16zł |
+|4. |Dyniowe oczka Halloween: Kawałki upieczonej dyni, Ser feta, Suszone żurawiny          | 14zł | 16zł |
+|5. |Wróżka w lesie: Makaron pełnoziarnisty,Pieczarki,Szpinak, Czosnek                     | 14zł | 16zł |
                                         
  
