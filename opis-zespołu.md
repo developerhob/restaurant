@@ -5,4 +5,4 @@
 **Antony Nury** - Po prostu szef, jedyny w swoim rodzaju. <br>
 <img src = "img/szef.jpg" width = 300> <br>
 **Ewa Dunkiewicz** <br>
-<img src = "img/pracowniczka.jpg" width = 300> <br>
+<img src = "img/kobieta.jpg" width = 300> <br>
