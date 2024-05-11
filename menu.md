@@ -24,12 +24,12 @@ Lp.|Dania vege:                                                                 
 
 <img src = "img/wine-7046276_1920.jpg" width = 300>
 
-Lp.|Napoje:                                                                                | Mały | Duży |
-|---|--------------------------------------------------------------------------------------|------|------|
-|1. |Paluchy wampira z hummusem krwi:Grzanki z pieczywa żytniego, Czerwona pasta hummusu   | 13zł | 15zł |
-|2. |Zombie Brain Salad: Quinoa,Awokado, Pomidory koktajlowe, Ogórek, Zielony sos ziołowy  | 13zł | 15zł |
-|3. |Wiedźmińskie ziemniaki w kotle: Ziemniaki, Ostry sos czarnej fasoli                   | 14zł | 16zł |
-|4. |Dyniowe oczka Halloween: Kawałki upieczonej dyni, Ser feta, Suszone żurawiny          | 14zł | 16zł |
-|5. |Wróżka w lesie: Makaron pełnoziarnisty,Pieczarki,Szpinak, Czosnek                     | 14zł | 16zł |
+Lp. |Napoje:        | Mały | Duży |
+|---|---------------|------|------|
+|1. |Kawa Espresso  | 13zł | 15zł |
+|2. |Latte          | 13zł | 15zł |
+|3. |Cappuccino     | 14zł | 16zł |
+|4. |Herbata Earl   | 14zł | 16zł |
+|5. |Piwo IPA       | 14zł | 16zł |
                                         
  
